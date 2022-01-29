@@ -1,0 +1,12 @@
+const layerConfigurations = [
+  {
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Head" },
+      { name: "Mouth" },
+      { name: "Eyes" },
+      { name: "Eyeswear" },
+      { name: "Headwear" },
+    ],
+  },
+];
